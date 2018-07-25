@@ -1,0 +1,2 @@
+﻿SQLite执行事务的问题 ExecuteSqlTran 函数
+请将这个数据的提交在循环的外边
